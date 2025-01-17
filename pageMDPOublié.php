@@ -140,7 +140,7 @@
             return;
         }
 
-        // Simule une demande de réinitialisation (ajoutez votre logique backend ici)
+        // Simule une demande de réinitialisation
         alert(`Un lien de réinitialisation a été envoyé à : ${email}`);
 
         // Retourner à la page de connexion
